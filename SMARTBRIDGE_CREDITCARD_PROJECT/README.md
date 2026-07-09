@@ -1,4 +1,4 @@
-App Link: https://credit-card-approval-system-a9dz.onrender.com
+App Link: https://credit-card-approval-l5qn.onrender.com
 
 Credit-Card-Approval-Prediction
 
